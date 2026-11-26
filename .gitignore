@@ -1,0 +1,7 @@
+# Environment & Secrets
+.env
+.env.*
+*.key
+*.pem
+*service_account*.json
+*credentials*.json
